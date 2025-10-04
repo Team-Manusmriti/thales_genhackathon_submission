@@ -122,7 +122,7 @@ This project builds upon several **open-source projects** while contributing nov
 
 - **ai-edge-torch**: Apache 2.0 License
 
-- **MobileNet v2**: Apache 2.0 License
+- **MobileNet v2**: Apache 2.0 License 
 
 ---
 
