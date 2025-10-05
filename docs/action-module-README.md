@@ -256,6 +256,7 @@ This module is built with the help of the open-source community, taking inspirat
 For comprehensive AI-powered video understanding, explore these related components:
 
 - **[Speech Intelligence Module](speech-module-README.md)** - Advanced speech recognition and natural language processing
+
 - **[RAG Module](rag-module-README.md)** - Retrieval-augmented generation for contextual assistance
 
 ---
