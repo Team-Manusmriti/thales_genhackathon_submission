@@ -244,14 +244,10 @@ analyzer = VideoAnalysisModule(config=config)
 
 ---
 
-## License & Credits
+## Credits
 
-This module is built with open-source frameworks and optimized for educational and commercial use. Please refer to individual component licenses for specific usage terms.
-
-**Dependencies:**
-- TensorFlow Lite (Apache 2.0)
-- OpenCV (Apache 2.0)
-- NumPy (BSD)
+This module is built with the help of the open-source community, taking inspiration and reference from the following repository:
+- (TFLite Object Detection by Jerry Kurata)[https://github.com/JerryKurata/TFlite-object-detection]
 
 ---
 
