@@ -29,7 +29,7 @@
 *All technical details are documented in markdown files, including system architecture, implementation details, performance metrics, and deployment instructions.*
 
 ## Source Code
-[GitHub Repository](https://github.com/Team-Manusmriti/thales_genhackathon_submission.git/tree/main/src)  
+[GitHub Repository](https://github.com/Team-Manusmriti/thales_genhackathon_submission/tree/main/src)  
 *Complete Flutter application source code with all modules, dependencies, and build configurations for successful installation and execution on Android platforms.*
 
 ## Market Overview
