@@ -247,7 +247,7 @@ analyzer = VideoAnalysisModule(config=config)
 ## Credits
 
 This module is built with the help of the open-source community, taking inspiration and reference from the following repository:
-- (TFLite Object Detection by Jerry Kurata)[https://github.com/JerryKurata/TFlite-object-detection]
+- [TFLite Object Detection by Jerry Kurata](https://github.com/JerryKurata/TFlite-object-detection)
 
 ---
 
