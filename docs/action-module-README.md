@@ -255,7 +255,6 @@ This module is built with the help of the open-source community, taking inspirat
 
 For comprehensive AI-powered video understanding, explore these related components:
 
-- **[Video Context Detection Module](video-context-detection-README.md)** - Multi-modal video analysis with action recognition and speech processing
 - **[Speech Intelligence Module](speech-module-README.md)** - Advanced speech recognition and natural language processing
 - **[RAG Module](rag-module-README.md)** - Retrieval-augmented generation for contextual assistance
 
