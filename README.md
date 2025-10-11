@@ -1,7 +1,7 @@
 # Thales GenTech India Hackathon 2025 Submission
 
-## Problem Statement - Building the Untethered, Always-On AI Companion
-> Reimagine a smartphone that doesn't just run apps, but truly understands and assists users. An agent that sees what you see, hears what you hear, and remembers your experiences to provide contextual, real-time help, all without a constant connection to the cloud.
+## Problem Statement - Untethered, Context-Aware, Always-On AI-Companion
+> Imagine a smartphone that’s not just a tool, but a perceptive companion. One that sees through your lens, listens with your ears, and remembers your journey—offering intelligent, real-time support without relying on the cloud.
 
 ## Team Name
 **Manusmriti**
